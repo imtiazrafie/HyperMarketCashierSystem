@@ -1,0 +1,101 @@
+1000,010101109910,Sofea Alysha,Female,Bangi Selangor,A001,Cadbury Chocolate,11,01-08-2022
+1000,010101109910,Sofea Alysha,Female,Bangi Selangor,A002,Tropicana Twister,10,01-08-2022
+1000,010101109910,Sofea Alysha,Female,Bangi Selangor,A003,Walls Magnum,17,01-08-2022
+1002,021920100442,Alya Azhar,Female,Bangi Selangor,A001,Twisties Chipster,5,01-08-2022
+1002,021920100442,Alya Azhar,Female,Bangi Selangor,A002,Kuaci,5,01-08-2022
+1002,021920100442,Alya Azhar,Female,Bangi Selangor,A003,Cereal,5,01-08-2022
+1002,021920100442,Alya Azhar,Female,Bangi Selangor,A004,Dutch Lady,3,01-08-2022
+1003,001025101111,Choi Yeonjun,Male,Seoul,A001,Nescafe,4,02-08-2022
+1003,001025101111,Choi Yeonjun,Male,Seoul,A002,Vida,4,02-08-2022
+1003,001025101111,Choi Yeonjun,Male,Seoul,A003,Farm Fresh Milk,10,02-08-2022
+1003,001025101111,Choi Yeonjun,Male,Seoul,A004,Orea,4,02-08-2022
+1003,001025101111,Choi Yeonjun,Male,Seoul,A005,Pringles,7,02-08-2022
+1003,990913000909,Choi Yeonjun,Male,Seoul,A006,Nongshim Shin Cup,6,02-08-2022
+1003,990913000909,Choi Yeonjun,Male,Seoul,A007,Nongshim Shin Cup,6,02-08-2022
+1003,990913000909,Choi Yeonjun,Male,Seoul,A008,Nongshim Shin Cup,6,02-08-2022
+1004,761102092134,Hamada Asahi,Male,Osaka Japan,A001,Coca-Cola,3,02-08-2022
+1004,761102092134,Hamada Asahi,Male,Osaka Japan,A002,Haribo,5,02-08-2022
+1004,761102092134,Hamada Asahi,Male,Osaka Japan,A003,Chipsmore,6,02-08-2022
+1004,761102092134,Hamada Asahi,Male,Osaka Japan,A004,Ramen,8,02-08-2022
+1004,761102092134,Hamada Asahi,Male,Osaka Japan,A005,Goodday Milk,10,02-08-2022
+1004,761102092134,Hamada Asahi,Male,Osaka Japan,A006,Haribo,5,02-08-2022
+1005,700808120043,Watanabe Haruto,Male,Fukuoka Japan,A001,Coca-Cola,5,02-08-2022
+1005,700808120043,Watanabe Haruto,Male,Fukuoka Japan,A002,Coca-Cola,5,02-08-2022
+1005,700808120043,Watanabe Haruto,Male,Fukuoka Japan,A003,Coca-Cola,5,02-08-2022
+1006,710103038235,Yoon Jaehyuk,Male,Seoul,A001,Kinder Joy,7,03-08-2022
+1005,710103038235,Yoon Jaehyuk,Male,Seoul,A002,Yogurt,7,03-08-2022
+1005,710103038235,Yoon Jaehyuk,Male,Seoul,A003,Sanitizer,5,03-08-2022
+1005,710103038235,Yoon Jaehyuk,Male,Seoul,A004,Pen,2,03-08-2022
+1005,710103038235,Yoon Jaehyuk,Male,Seoul,A005,Slurpee,4,03-08-2022
+1006,010505059762,Choi Beomgyu,Male,Daegu,A001,Mister Potato,6,03-08-2022
+1006,010505059762,Choi Beomgyu,Male,Daegu,A002,Haribo,5,03-08-2022
+1007,030616121230,Seo Changbin,Male,Seoul,A001,Mini Rolls,3,03-08-2022
+1007,030616121230,Seo Changbin,Male,Seoul,A002,Dutch Lady,3,03-08-2022
+1007,030616121230,Seo Changbin,Male,Seoul,A004,Dutch Lady,3,03-08-2022
+1008,001020011000,Afiqah Faqihah,Female,Bangi Selangor,A001,Nongshim Shin Cup,5,03-08-2022
+1009,741201092021,Choi Soobin,Male,Ansan,A001,Pringles,4,03-08-2022
+1009,741201092021,Choi Soobin,Male,Ansan,A002,Cadbury Chocolate,11,03-08-2022
+1009,741201092021,Choi Soobin,Male,Ansan,A003,Yogurt,7,03-08-2022
+1009,741201092021,Choi Soobin,Male,Ansan,A004,Kinder Joy,7,03-08-2022
+1009,741201092021,Choi Soobin,Male,Ansan,A005,Ramen,8,03-08-2022
+1010,700607000111,Hwang Yeji,Female,Seoul,A001,Cookies,6,04-08-2022
+1010,700607000111,Hwang Yeji,Female,Seoul,A002,Kuaci,5,04-08-2022
+1011,990913000909,Choi Yeonjun,Male,Seoul,A001,Nongshim Shin Cup,5,04-08-2022
+1011,990913000909,Choi Yeonjun,Male,Seoul,A002,Nongshim Shin Cup,5,04-08-2022
+1012,761102092134,Hamada Asahi,Male,Osaka Japan,A001,Nongshim Shin Cup,5,04-08-2022
+1012,761102092134,Hamada Asahi,Male,Osaka Japan,A002,Coca-Cola,5,04-08-2022
+1013,890101109908,Park Jongseong,Male,Seattle Washington,A001,Protein Bar,4,04-08-2022
+1013,890101109908,Park Jongseong,Male,Seattle Washington,A002,Protein Bar,4,04-08-2022
+1013,890101109908,Park Jongseong,Male,Seattle Washington,A003,Protein Bar,4,04-08-2022
+1013,890101109908,Park Jongseong,Male,Seattle Washington,A004,Dutch Lady,3,04-08-2022
+1013,890101109908,Park Jongseong,Male,Seattle Washington,A005,Dutch Lady,3,04-08-2022
+1013,890101109908,Park Jongseong,Male,Seattle Washington,A006,Haribo,5,04-08-2022
+1013,890101109908,Park Jongseong,Male,Seattle Washington,A007,Cornetto,12,04-08-2022
+1013,890101109908,Park Jongseong,Male,Seattle Washington,A008,Protein Bar,4,04-08-2022
+1014,000909112398,Hwang Hyunjin,Male,Seoul,A001,Dutch Lady,3,05-08-2022
+1014,000909112398,Hwang Hyunjin,Male,Seoul,A002,Pringles,4,05-08-2022
+1014,000909112398,Hwang Hyunjin,Male,Seoul,A003,Mini Rolls,3,05-08-2022
+1015,020913000958,Shin Ryujin,Female,Seoul,A001,Potato Chips,6,05-08-2022
+1015,020913000958,Shin Ryujin,Female,Seoul,A002,Potato Chips,6,05-08-2022
+1015,020913000958,Shin Ryujin,Female,Seoul,A003,Tropicana Twister,10,05-08-2022
+1015,020913000958,Shin Ryujin,Female,Seoul,A004,Kuaci,5,05-08-2022
+1015,020913000958,Shin Ryujin,Female,Seoul,A005,Cereal,5,05-08-2022
+1016,020910145087,Kanemoto Yoshi,Male,Kobe Japan,A001,Ramen,8,06-08-2022
+1016,020910145087,Kanemoto Yoshi,Male,Kobe Japan,A002,Nutella,18,06-08-2022
+1016,020910145087,Kanemoto Yoshi,Male,Kobe Japan,A003,Mamee Monster,5,06-08-2022
+1016,020910145087,Kanemoto Yoshi,Male,Kobe Japan,A004,Margerine,10,06-08-2022
+1016,020910145087,Kanemoto Yoshi,Male,Kobe Japan,A005,Bateries,14,06-08-2022
+1016,020910145087,Kanemoto Yoshi,Male,Kobe Japan,A006,Cadbury,8,06-08-2022
+1017,851010013333,Lee Felix,Male,Sydney Australia,A001,Pen,2,06-08-2022
+1018,851010013333,Lee Felix,Male,Sydney Australia,A002,Ramen,8,06-08-2022
+1018,851010013333,Lee Felix,Male,Sydney Australia,A003,Ramen,8,06-08-2022
+1018,851010013333,Lee Felix,Male,Sydney Australia,A004,Gardenia,6,06-08-2022
+1018,851010013333,Lee Felix,Male,Sydney Australia,A005,Walls Solero,11,06-08-2022
+1018,851010013333,Lee Felix,Male,Sydney Australia,A006,Nutella,18,06-08-2022
+1018,851010013333,Lee Felix,Male,Sydney Australia,A007,Bread,10,06-08-2022
+1018,851010013333,Lee Felix,Male,Sydney Australia,A008,Margerine,10,06-08-2022
+1018,851010013333,Lee Felix,Male,Sydney Australia,A009,Slurpee,4,06-08-2022
+1018,851010013333,Lee Felix,Male,Sydney Australia,A010,Haribo,5,06-08-2022
+1019,010731109925,Kim Taehyung,Male,Daegu,A001,Ramen,8,07-08-2022
+1019,010731109925,Kim Taehyung,Male,Daegu,A002,Ramen,8,07-08-2022
+1019,010731109925,Kim Taehyung,Male,Daegu,A003,Ramem,8,07-08-2022
+1019,010731109925,Kim Taehyung,Male,Daegu,A004,Potato Chips,6,07-08-2022
+1019,010731109925,Kim Taehyung,Male,Daegu,A005,Potato Chips,6,07-08-2022
+1020,031027012865,Kang Taehyun,Male,Seoul,A001,Walls Magnum,17,07-08-2022
+1020,031027012865,Kang Taehyun,Male,Seoul,A002,Walls Magnum,17,07-08-2022
+1020,031027012865,Kang Taehyun,Male,Seoul,A003,Nongshim Shin Cup,5,07-08-2022
+1020,031027012865,Kang Taehyun,Male,Seoul,A004,Nongshim Shin Cup,5,07-08-2022
+1020,031027012865,Kang Taehyun,Male,Seoul,A005,Nongshim Shin Cup,5,07-08-2022
+1021,790929030202,Takata Mashiho,Male,Mie Japan,A001,Protein Bar,5,08-08-2022
+1021,790929030202,Takata Mashiho,Male,Mie Japan,A002,Protein Bar,5,08-08-2022
+1021,790929030202,Takata Mashiho,Male,Mie Japan,A003,Protein Bar,5,08-08-2022
+1021,790929030202,Takata Mashiho,Male,Mie Japan,A004,Protein Bar,5,08-08-2022
+1021,790929030202,Takata Mashiho,Male,Mie Japan,A005,Protein Bar,5,08-08-2022
+1021,790929030202,Takata Mashiho,Male,Mie Japan,A006,Dutch Lady,3,08-08-2022
+1021,790929030202,Takata Mashiho,Male,Mie Japan,A007,Dutch Lady,3,08-08-2022
+1021,790929030202,Takata Mashiho,Male,Mie Japan,A008,Protein Bar,5,08-08-2022
+1021,790929030202,Takata Mashiho,Male,Mie Japan,A009,Ramen,8,08-08-2022
+1022,031213100294,Aida Syafiah,Female,Perak Malaysia,A001,Potato Chips,6,10-09-2022
+1022,031213100294,Aida Syafiah,Female,Perak Malaysia,A002,Slurpee,4,10-09-2022
+1023,030103140266,Nur Batrisyia,Female,Kuala Lumpur,A001,Potato Chips,6,10-09-2022
+1023,030103140266,Nur Batrisyia,Female,Kuala Lumpur,A002,Slurpee,4,10-09-2022
