@@ -18,14 +18,14 @@ public class Receipt extends javax.swing.JFrame
         setLocationRelativeTo(null);
 
         //Displaying all data
-        custNamelabel.setText("Name: " + custName);
-        custIDlabel.setText("ID: " +custID);
-        custIClabel.setText("IC: " +custIC);
+        custNamelabel.setText("Customer Name: " + custName);
+        custIDlabel.setText("Customer ID: " +custID);
+        custIClabel.setText("Customer IC: " +custIC);
         genderLabel.setText("Gender: " + custGender);
         addressLabel.setText("Address: " + custAddress);
         paymenttitle.setText("Receipt " + custID);
         totalAmountlabel.setText("Total: RM " + totalAmount);
-        paidlabel.setText("Paid: RM " + paidAmount);
+        paidlabel.setText("Amount Paid: RM " + paidAmount);
         balancelabel.setText("Balance: RM " + balance);
 
         //Displaying item into table

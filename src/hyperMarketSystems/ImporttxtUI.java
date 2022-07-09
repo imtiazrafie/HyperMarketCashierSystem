@@ -183,7 +183,8 @@ public class ImporttxtUI extends javax.swing.JFrame
                             Double itemPrice = itemdata.getitemPrice();
                             String datePurchased = itemdata.getDatePurchase();
 
-                            hyperMarketSystems.Main.getCounter1().add(new CustomerInformation(custID, custIC, custName, custGender, custAddress, "counter1", itemID, itemName, itemPrice, datePurchased));
+                            hyperMarketSystems.Main.getCounter1().add(new CustomerInformation(custID, custIC, custName, custGender, custAddress, 
+                            		                                                          "counter1", itemID, itemName, itemPrice, datePurchased));
                         }
                         stateCounterNumber = 2;
                     }
@@ -202,7 +203,8 @@ public class ImporttxtUI extends javax.swing.JFrame
                             Double itemPrice = itemdata.getitemPrice();
                             String datePurchased = itemdata.getDatePurchase();
 
-                            hyperMarketSystems.Main.getCounter2().add(new CustomerInformation(custID, custIC, custName, custGender, custAddress, "counter2", itemID, itemName, itemPrice, datePurchased));
+                            hyperMarketSystems.Main.getCounter2().add(new CustomerInformation(custID, custIC, custName, custGender, custAddress, 
+                            		                                                          "counter2", itemID, itemName, itemPrice, datePurchased));
 
                         }
                         stateCounterNumber = 1;
@@ -223,7 +225,8 @@ public class ImporttxtUI extends javax.swing.JFrame
                         Double itemPrice = itemdata.getitemPrice();
                         String datePurchased = itemdata.getDatePurchase();
 
-                        hyperMarketSystems.Main.getCounter3().add(new CustomerInformation(custID, custIC, custName, custGender, custAddress, "counter3", itemID, itemName, itemPrice, datePurchased));
+                        hyperMarketSystems.Main.getCounter3().add(new CustomerInformation(custID, custIC, custName, custGender, custAddress, 
+                        		                                                          "counter3", itemID, itemName, itemPrice, datePurchased));
 
                     }
                 }

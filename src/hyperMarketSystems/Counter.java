@@ -136,7 +136,7 @@ public class Counter extends javax.swing.JFrame
         	new Object[][] {
         	},
         	new String[] {
-        		"Customer ID", "Name", "Gender", "Address", "Customer IC"
+        		"Customer ID", "Customer Name", "Gender", "Address", "Customer IC"
         	}
         ));
         customerTable.getColumnModel().getColumn(0).setPreferredWidth(87);
